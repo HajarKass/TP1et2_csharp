@@ -1,0 +1,14 @@
+C:\Users\hajar\Exos-C\LesBases\IRentable\bin\Debug\net9.0\IRentable.exe
+C:\Users\hajar\Exos-C\LesBases\IRentable\bin\Debug\net9.0\IRentable.deps.json
+C:\Users\hajar\Exos-C\LesBases\IRentable\bin\Debug\net9.0\IRentable.runtimeconfig.json
+C:\Users\hajar\Exos-C\LesBases\IRentable\bin\Debug\net9.0\IRentable.dll
+C:\Users\hajar\Exos-C\LesBases\IRentable\bin\Debug\net9.0\IRentable.pdb
+C:\Users\hajar\Exos-C\LesBases\IRentable\obj\Debug\net9.0\IRentable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hajar\Exos-C\LesBases\IRentable\obj\Debug\net9.0\IRentable.AssemblyInfoInputs.cache
+C:\Users\hajar\Exos-C\LesBases\IRentable\obj\Debug\net9.0\IRentable.AssemblyInfo.cs
+C:\Users\hajar\Exos-C\LesBases\IRentable\obj\Debug\net9.0\IRentable.csproj.CoreCompileInputs.cache
+C:\Users\hajar\Exos-C\LesBases\IRentable\obj\Debug\net9.0\IRentable.dll
+C:\Users\hajar\Exos-C\LesBases\IRentable\obj\Debug\net9.0\refint\IRentable.dll
+C:\Users\hajar\Exos-C\LesBases\IRentable\obj\Debug\net9.0\IRentable.pdb
+C:\Users\hajar\Exos-C\LesBases\IRentable\obj\Debug\net9.0\IRentable.genruntimeconfig.cache
+C:\Users\hajar\Exos-C\LesBases\IRentable\obj\Debug\net9.0\ref\IRentable.dll

@@ -1,0 +1,14 @@
+C:\Users\hajar\Exos-C\LesBases\Délégués\bin\Debug\net9.0\Délégués.exe
+C:\Users\hajar\Exos-C\LesBases\Délégués\bin\Debug\net9.0\Délégués.deps.json
+C:\Users\hajar\Exos-C\LesBases\Délégués\bin\Debug\net9.0\Délégués.runtimeconfig.json
+C:\Users\hajar\Exos-C\LesBases\Délégués\bin\Debug\net9.0\Délégués.dll
+C:\Users\hajar\Exos-C\LesBases\Délégués\bin\Debug\net9.0\Délégués.pdb
+C:\Users\hajar\Exos-C\LesBases\Délégués\obj\Debug\net9.0\Délégués.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hajar\Exos-C\LesBases\Délégués\obj\Debug\net9.0\Délégués.AssemblyInfoInputs.cache
+C:\Users\hajar\Exos-C\LesBases\Délégués\obj\Debug\net9.0\Délégués.AssemblyInfo.cs
+C:\Users\hajar\Exos-C\LesBases\Délégués\obj\Debug\net9.0\Délégués.csproj.CoreCompileInputs.cache
+C:\Users\hajar\Exos-C\LesBases\Délégués\obj\Debug\net9.0\Délégués.dll
+C:\Users\hajar\Exos-C\LesBases\Délégués\obj\Debug\net9.0\refint\Délégués.dll
+C:\Users\hajar\Exos-C\LesBases\Délégués\obj\Debug\net9.0\Délégués.pdb
+C:\Users\hajar\Exos-C\LesBases\Délégués\obj\Debug\net9.0\Délégués.genruntimeconfig.cache
+C:\Users\hajar\Exos-C\LesBases\Délégués\obj\Debug\net9.0\ref\Délégués.dll

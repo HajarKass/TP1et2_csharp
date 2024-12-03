@@ -1,0 +1,14 @@
+C:\Users\hajar\Exos-C\bin\Debug\net9.0\Exos-C.exe
+C:\Users\hajar\Exos-C\bin\Debug\net9.0\Exos-C.deps.json
+C:\Users\hajar\Exos-C\bin\Debug\net9.0\Exos-C.runtimeconfig.json
+C:\Users\hajar\Exos-C\bin\Debug\net9.0\Exos-C.dll
+C:\Users\hajar\Exos-C\bin\Debug\net9.0\Exos-C.pdb
+C:\Users\hajar\Exos-C\obj\Debug\net9.0\Exos-C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hajar\Exos-C\obj\Debug\net9.0\Exos-C.AssemblyInfoInputs.cache
+C:\Users\hajar\Exos-C\obj\Debug\net9.0\Exos-C.AssemblyInfo.cs
+C:\Users\hajar\Exos-C\obj\Debug\net9.0\Exos-C.csproj.CoreCompileInputs.cache
+C:\Users\hajar\Exos-C\obj\Debug\net9.0\Exos-C.dll
+C:\Users\hajar\Exos-C\obj\Debug\net9.0\refint\Exos-C.dll
+C:\Users\hajar\Exos-C\obj\Debug\net9.0\Exos-C.pdb
+C:\Users\hajar\Exos-C\obj\Debug\net9.0\Exos-C.genruntimeconfig.cache
+C:\Users\hajar\Exos-C\obj\Debug\net9.0\ref\Exos-C.dll

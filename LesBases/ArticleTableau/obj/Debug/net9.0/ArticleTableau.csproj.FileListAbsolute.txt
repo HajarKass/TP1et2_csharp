@@ -1,0 +1,14 @@
+C:\Users\hajar\Exos-C\LesBases\ArticleTableau\bin\Debug\net9.0\ArticleTableau.exe
+C:\Users\hajar\Exos-C\LesBases\ArticleTableau\bin\Debug\net9.0\ArticleTableau.deps.json
+C:\Users\hajar\Exos-C\LesBases\ArticleTableau\bin\Debug\net9.0\ArticleTableau.runtimeconfig.json
+C:\Users\hajar\Exos-C\LesBases\ArticleTableau\bin\Debug\net9.0\ArticleTableau.dll
+C:\Users\hajar\Exos-C\LesBases\ArticleTableau\bin\Debug\net9.0\ArticleTableau.pdb
+C:\Users\hajar\Exos-C\LesBases\ArticleTableau\obj\Debug\net9.0\ArticleTableau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hajar\Exos-C\LesBases\ArticleTableau\obj\Debug\net9.0\ArticleTableau.AssemblyInfoInputs.cache
+C:\Users\hajar\Exos-C\LesBases\ArticleTableau\obj\Debug\net9.0\ArticleTableau.AssemblyInfo.cs
+C:\Users\hajar\Exos-C\LesBases\ArticleTableau\obj\Debug\net9.0\ArticleTableau.csproj.CoreCompileInputs.cache
+C:\Users\hajar\Exos-C\LesBases\ArticleTableau\obj\Debug\net9.0\ArticleTableau.dll
+C:\Users\hajar\Exos-C\LesBases\ArticleTableau\obj\Debug\net9.0\refint\ArticleTableau.dll
+C:\Users\hajar\Exos-C\LesBases\ArticleTableau\obj\Debug\net9.0\ArticleTableau.pdb
+C:\Users\hajar\Exos-C\LesBases\ArticleTableau\obj\Debug\net9.0\ArticleTableau.genruntimeconfig.cache
+C:\Users\hajar\Exos-C\LesBases\ArticleTableau\obj\Debug\net9.0\ref\ArticleTableau.dll

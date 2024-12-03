@@ -1,0 +1,14 @@
+C:\Users\hajar\Exos-C\LesBases\Article\obj\Debug\net9.0\Article.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hajar\Exos-C\LesBases\Article\obj\Debug\net9.0\Article.AssemblyInfoInputs.cache
+C:\Users\hajar\Exos-C\LesBases\Article\obj\Debug\net9.0\Article.AssemblyInfo.cs
+C:\Users\hajar\Exos-C\LesBases\Article\obj\Debug\net9.0\Article.csproj.CoreCompileInputs.cache
+C:\Users\hajar\Exos-C\LesBases\Article\bin\Debug\net9.0\Article.exe
+C:\Users\hajar\Exos-C\LesBases\Article\bin\Debug\net9.0\Article.deps.json
+C:\Users\hajar\Exos-C\LesBases\Article\bin\Debug\net9.0\Article.runtimeconfig.json
+C:\Users\hajar\Exos-C\LesBases\Article\bin\Debug\net9.0\Article.dll
+C:\Users\hajar\Exos-C\LesBases\Article\bin\Debug\net9.0\Article.pdb
+C:\Users\hajar\Exos-C\LesBases\Article\obj\Debug\net9.0\Article.dll
+C:\Users\hajar\Exos-C\LesBases\Article\obj\Debug\net9.0\refint\Article.dll
+C:\Users\hajar\Exos-C\LesBases\Article\obj\Debug\net9.0\Article.pdb
+C:\Users\hajar\Exos-C\LesBases\Article\obj\Debug\net9.0\Article.genruntimeconfig.cache
+C:\Users\hajar\Exos-C\LesBases\Article\obj\Debug\net9.0\ref\Article.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exos-C", "Exos-C.csproj", "{776DAABC-2543-4CC8-B9E1-4134D1683A3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{776DAABC-2543-4CC8-B9E1-4134D1683A3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{776DAABC-2543-4CC8-B9E1-4134D1683A3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{776DAABC-2543-4CC8-B9E1-4134D1683A3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{776DAABC-2543-4CC8-B9E1-4134D1683A3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {623D427A-4283-4F7E-86BF-F8AC984F3F13}
+	EndGlobalSection
+EndGlobal
