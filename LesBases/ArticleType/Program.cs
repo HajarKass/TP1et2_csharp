@@ -88,7 +88,7 @@ namespace LesBases
             article2.Afficher();
             article3.Afficher();
 
-            // Création d'un nouvel article par saisie utilisateur
+            // Création d'un nouvel article par saisie user
             Console.WriteLine("\nCréation d'un nouvel article:");
             try
             {

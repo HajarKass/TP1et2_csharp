@@ -12,3 +12,4 @@ C:\Users\hajar\Exos-C\LesBases\ArticleType\obj\Debug\net9.0\refint\ArticleType.d
 C:\Users\hajar\Exos-C\LesBases\ArticleType\obj\Debug\net9.0\ArticleType.pdb
 C:\Users\hajar\Exos-C\LesBases\ArticleType\obj\Debug\net9.0\ArticleType.genruntimeconfig.cache
 C:\Users\hajar\Exos-C\LesBases\ArticleType\obj\Debug\net9.0\ref\ArticleType.dll
+C:\Users\hajar\Exos-C\LesBases\ArticleType\obj\Debug\net9.0\ArticleType.sourcelink.json

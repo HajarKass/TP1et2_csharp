@@ -1,0 +1,32 @@
+[
+  {
+    "Nom": "Pomme",
+    "Prix": 2.5,
+    "Quantite": 50,
+    "Type": 0
+  },
+  {
+    "Nom": "Savon",
+    "Prix": 3.2,
+    "Quantite": 30,
+    "Type": 1
+  },
+  {
+    "Nom": "T-shirt",
+    "Prix": 15,
+    "Quantite": 20,
+    "Type": 2
+  },
+  {
+    "Nom": "Ordinateur",
+    "Prix": 800,
+    "Quantite": 5,
+    "Type": 4
+  },
+  {
+    "Nom": "Ballon",
+    "Prix": 10,
+    "Quantite": 15,
+    "Type": 3
+  }
+]
